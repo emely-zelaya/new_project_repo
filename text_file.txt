@@ -6,3 +6,6 @@ In first week we learned Excel basics.
 
 Week 2
 We learned more about data analytics.
+
+Week 3
+We learned Python.
