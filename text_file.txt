@@ -9,3 +9,6 @@ We learned more about data analytics.
 
 Week 3
 We learned Python.
+
+Week 4
+We learned data analytics with Pandas.
